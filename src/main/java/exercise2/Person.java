@@ -1,4 +1,5 @@
 package exercise2;
 
-class Person {
+class Person
+{
 }
